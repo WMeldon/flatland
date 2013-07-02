@@ -741,7 +741,7 @@
     {
         "class": "icon_button_control",
         "layer0.texture": "Theme - Flatland/Flatland Dark/btn-group-middle.png",
-        "layer0.inner_margin": [6, 6],
+        "layer0.inner_margin": [4, 6],
         "layer0.opacity": 1.0,
         "content_margin": [4, 4,4,5]
     },
@@ -778,7 +778,7 @@
     {
         "class": "icon_regex",
         "layer0.texture": "Theme - Flatland/Flatland Dark/icon-regex-off.png",
-        "layer0.opacity": 1.0,
+        "layer0.opacity": 1,
         "content_margin": [8, 8]
     },
     {
